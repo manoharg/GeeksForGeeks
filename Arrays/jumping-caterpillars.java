@@ -1,6 +1,7 @@
 import java.util.*;
 import java.lang.*;
 import java.io.*;
+// can be solved in a more optimised way using lcm 
 class GFG
  {
 	public static void main (String[] args) throws IOException
